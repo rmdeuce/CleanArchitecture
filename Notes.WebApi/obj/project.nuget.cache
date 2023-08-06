@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p7oY3hiX87l24UUwffrnJ6V/lW4dqO4nZXbQwbA0kXFQJnue0bLpZQIS4bgUfLdF6ZQjSsiYg9wA4yrDDggSnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ЖлуткинРВ\\Desktop\\Code\\rmdeuce.notes\\Notes.WebApi\\Notes.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ЖлуткинРВ\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
