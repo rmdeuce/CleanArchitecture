@@ -529,6 +529,20 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
+      "Notes.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.9",
+          "Notes.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Notes.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Notes.Application.dll": {}
+        }
+      },
       "Notes.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -1219,6 +1233,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Notes.Application/1.0.0": {
+      "type": "project",
+      "path": "../Notes.Application/Notes.Application.csproj",
+      "msbuildProject": "../Notes.Application/Notes.Application.csproj"
+    },
     "Notes.Domain/1.0.0": {
       "type": "project",
       "path": "../Notes.Domain/Notes.Domain.csproj",
@@ -1229,6 +1248,7 @@
     "net7.0": [
       "Microsoft.EntityFrameworkCore >= 7.0.9",
       "Microsoft.EntityFrameworkCore.Sqlite >= 7.0.9",
+      "Notes.Application >= 1.0.0",
       "Notes.Domain >= 1.0.0",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 7.0.4"
     ]
@@ -1266,6 +1286,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\ЖлуткинРВ\\Desktop\\Code\\rmdeuce.notes\\Notes.Application\\Notes.Application.csproj": {
+              "projectPath": "C:\\Users\\ЖлуткинРВ\\Desktop\\Code\\rmdeuce.notes\\Notes.Application\\Notes.Application.csproj"
+            },
             "C:\\Users\\ЖлуткинРВ\\Desktop\\Code\\rmdeuce.notes\\Notes.Domain\\Notes.Domain.csproj": {
               "projectPath": "C:\\Users\\ЖлуткинРВ\\Desktop\\Code\\rmdeuce.notes\\Notes.Domain\\Notes.Domain.csproj"
             }
