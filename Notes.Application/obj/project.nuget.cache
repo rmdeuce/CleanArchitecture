@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "e+rubKyepuxYhKPpT0KhgERJ7I970Pz0kSn81tMfUyh8tpT1aTz9YpY+2Z1GTvsIDAgzzi1m1hbEGjllZkTpLQ==",
+  "dgSpecHash": "eFBL/0yUzhv/VfQndShVvzkzDUzso+OoV+QGIto3CJyCEvTiYU3I5q6BYnsCTOdJj9r2Yi2c9jDNnQoE5dc6Ew==",
   "success": true,
   "projectFilePath": "C:\\Users\\ЖлуткинРВ\\Desktop\\Code\\rmdeuce.notes\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ЖлуткинРВ\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ЖлуткинРВ\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ЖлуткинРВ\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\ЖлуткинРВ\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
     "C:\\Users\\ЖлуткинРВ\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.9\\microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",

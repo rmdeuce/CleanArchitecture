@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2oDxZNIzO+Xk+5NmLaW3ljGVm78zpITQzhO/zZdRpYNlLuilEadOzj2Vt7SbucSjaqS45lSmlqEn8KO9aYfMHQ==",
+  "dgSpecHash": "0Zw4mJscNsn2Nwpm6ZjFkSr2t2uX6uj1WjDfH3zwf5Feax8lHMpVRtAd1omtzmLYB2cVAlMsx7WDJMJb/KzHpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ЖлуткинРВ\\Desktop\\Code\\rmdeuce.notes\\Notes.Persistence\\Notes.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ЖлуткинРВ\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ЖлуткинРВ\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ЖлуткинРВ\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.9\\microsoft.data.sqlite.core.7.0.9.nupkg.sha512",
     "C:\\Users\\ЖлуткинРВ\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\ЖлуткинРВ\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
